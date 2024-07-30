@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RunaSST/static/css/main.4188b795.css",
-    "main.js": "/RunaSST/static/js/main.ed9ceccf.js",
+    "main.css": "/RunaSST/static/css/main.f844d5b6.css",
+    "main.js": "/RunaSST/static/js/main.a6a291ec.js",
     "static/js/453.bef9d444.chunk.js": "/RunaSST/static/js/453.bef9d444.chunk.js",
     "static/media/Deutschlands.ttf": "/RunaSST/static/media/Deutschlands.284481a5da5ab8480af4.ttf",
     "static/media/accident.png": "/RunaSST/static/media/accident.de812133d28a4eadc696.png",
@@ -14,12 +14,12 @@
     "static/media/unsafeBehavior.png": "/RunaSST/static/media/unsafeBehavior.58a80e67fd55332274e9.png",
     "static/media/report.png": "/RunaSST/static/media/report.82df049e1523825d2feb.png",
     "index.html": "/RunaSST/index.html",
-    "main.4188b795.css.map": "/RunaSST/static/css/main.4188b795.css.map",
-    "main.ed9ceccf.js.map": "/RunaSST/static/js/main.ed9ceccf.js.map",
+    "main.f844d5b6.css.map": "/RunaSST/static/css/main.f844d5b6.css.map",
+    "main.a6a291ec.js.map": "/RunaSST/static/js/main.a6a291ec.js.map",
     "453.bef9d444.chunk.js.map": "/RunaSST/static/js/453.bef9d444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4188b795.css",
-    "static/js/main.ed9ceccf.js"
+    "static/css/main.f844d5b6.css",
+    "static/js/main.a6a291ec.js"
   ]
 }
