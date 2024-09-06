@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/RunaSST/static/css/main.f844d5b6.css",
-    "main.js": "/RunaSST/static/js/main.8a34a687.js",
-    "static/js/453.bef9d444.chunk.js": "/RunaSST/static/js/453.bef9d444.chunk.js",
-    "static/media/Deutschlands.ttf": "/RunaSST/static/media/Deutschlands.284481a5da5ab8480af4.ttf",
-    "static/media/accident.png": "/RunaSST/static/media/accident.de812133d28a4eadc696.png",
-    "static/media/KelanoRemora.otf": "/RunaSST/static/media/KelanoRemora.8b5028cbe2700745b366.otf",
-    "static/media/management.png": "/RunaSST/static/media/management.915383cada49d7011403.png",
-    "static/media/bg.png": "/RunaSST/static/media/bg.505b432f781eb3a2a548.png",
-    "static/media/unsafeCondition.png": "/RunaSST/static/media/unsafeCondition.c0fbd61f96b4c7743d04.png",
-    "static/media/Raillinc.otf": "/RunaSST/static/media/Raillinc.a0d0d3a8c7fb7b9f36da.otf",
-    "static/media/inspection.png": "/RunaSST/static/media/inspection.c2c2226a3163e28ae6ac.png",
-    "static/media/unsafeBehavior.png": "/RunaSST/static/media/unsafeBehavior.58a80e67fd55332274e9.png",
-    "static/media/report.png": "/RunaSST/static/media/report.82df049e1523825d2feb.png",
-    "index.html": "/RunaSST/index.html",
-    "main.f844d5b6.css.map": "/RunaSST/static/css/main.f844d5b6.css.map",
-    "main.8a34a687.js.map": "/RunaSST/static/js/main.8a34a687.js.map",
-    "453.bef9d444.chunk.js.map": "/RunaSST/static/js/453.bef9d444.chunk.js.map"
+    "main.css": "/static/css/main.718421e9.css",
+    "main.js": "/static/js/main.02970c47.js",
+    "static/js/453.bef9d444.chunk.js": "/static/js/453.bef9d444.chunk.js",
+    "static/media/Deutschlands.ttf": "/static/media/Deutschlands.284481a5da5ab8480af4.ttf",
+    "static/media/accident.png": "/static/media/accident.de812133d28a4eadc696.png",
+    "static/media/KelanoRemora.otf": "/static/media/KelanoRemora.8b5028cbe2700745b366.otf",
+    "static/media/management.png": "/static/media/management.915383cada49d7011403.png",
+    "static/media/bg.png": "/static/media/bg.505b432f781eb3a2a548.png",
+    "static/media/unsafeCondition.png": "/static/media/unsafeCondition.c0fbd61f96b4c7743d04.png",
+    "static/media/Raillinc.otf": "/static/media/Raillinc.a0d0d3a8c7fb7b9f36da.otf",
+    "static/media/inspection.png": "/static/media/inspection.c2c2226a3163e28ae6ac.png",
+    "static/media/unsafeBehavior.png": "/static/media/unsafeBehavior.58a80e67fd55332274e9.png",
+    "static/media/report.png": "/static/media/report.82df049e1523825d2feb.png",
+    "index.html": "/index.html",
+    "main.718421e9.css.map": "/static/css/main.718421e9.css.map",
+    "main.02970c47.js.map": "/static/js/main.02970c47.js.map",
+    "453.bef9d444.chunk.js.map": "/static/js/453.bef9d444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f844d5b6.css",
-    "static/js/main.8a34a687.js"
+    "static/css/main.718421e9.css",
+    "static/js/main.02970c47.js"
   ]
 }
