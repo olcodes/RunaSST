@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d4bdb8ef.css",
-    "main.js": "/static/js/main.f2d72ac4.js",
+    "main.js": "/static/js/main.9247892f.js",
     "static/js/453.bef9d444.chunk.js": "/static/js/453.bef9d444.chunk.js",
     "static/media/Deutschlands.ttf": "/static/media/Deutschlands.284481a5da5ab8480af4.ttf",
     "static/media/accident.png": "/static/media/accident.de812133d28a4eadc696.png",
@@ -11,15 +11,16 @@
     "static/media/unsafeCondition.png": "/static/media/unsafeCondition.c0fbd61f96b4c7743d04.png",
     "static/media/Raillinc.otf": "/static/media/Raillinc.a0d0d3a8c7fb7b9f36da.otf",
     "static/media/inspection.png": "/static/media/inspection.c2c2226a3163e28ae6ac.png",
+    "static/media/pdf.png": "/static/media/pdf.60b371776a9116478562.png",
     "static/media/unsafeBehavior.png": "/static/media/unsafeBehavior.58a80e67fd55332274e9.png",
     "static/media/report.png": "/static/media/report.82df049e1523825d2feb.png",
     "index.html": "/index.html",
     "main.d4bdb8ef.css.map": "/static/css/main.d4bdb8ef.css.map",
-    "main.f2d72ac4.js.map": "/static/js/main.f2d72ac4.js.map",
+    "main.9247892f.js.map": "/static/js/main.9247892f.js.map",
     "453.bef9d444.chunk.js.map": "/static/js/453.bef9d444.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4bdb8ef.css",
-    "static/js/main.f2d72ac4.js"
+    "static/js/main.9247892f.js"
   ]
 }
