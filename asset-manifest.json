@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4bdb8ef.css",
-    "main.js": "/static/js/main.be0a78c2.js",
+    "main.css": "/static/css/main.e7548946.css",
+    "main.js": "/static/js/main.4941896b.js",
     "static/js/453.bef9d444.chunk.js": "/static/js/453.bef9d444.chunk.js",
     "static/media/Deutschlands.ttf": "/static/media/Deutschlands.284481a5da5ab8480af4.ttf",
     "static/media/accident.png": "/static/media/accident.de812133d28a4eadc696.png",
@@ -15,12 +15,12 @@
     "static/media/unsafeBehavior.png": "/static/media/unsafeBehavior.58a80e67fd55332274e9.png",
     "static/media/report.png": "/static/media/report.82df049e1523825d2feb.png",
     "index.html": "/index.html",
-    "main.d4bdb8ef.css.map": "/static/css/main.d4bdb8ef.css.map",
-    "main.be0a78c2.js.map": "/static/js/main.be0a78c2.js.map",
+    "main.e7548946.css.map": "/static/css/main.e7548946.css.map",
+    "main.4941896b.js.map": "/static/js/main.4941896b.js.map",
     "453.bef9d444.chunk.js.map": "/static/js/453.bef9d444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4bdb8ef.css",
-    "static/js/main.be0a78c2.js"
+    "static/css/main.e7548946.css",
+    "static/js/main.4941896b.js"
   ]
 }
